@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome ACME System 1 - Log In",
+  "Type": "Screen",
+  "Id": "mPwgOOaPr0-CwrZQCVk8ow",
+  "Reference": "gP8H0QkvvUWJ5fJCeuAD8Q/mPwgOOaPr0-CwrZQCVk8ow",
+  "ParentRef": "gP8H0QkvvUWJ5fJCeuAD8Q/i78Ye_nd3kCTq64dE-N7ag",
+  "Created": "2025-11-07T16:55:53.275584Z",
+  "Updated": "2025-11-07T16:55:53.275584Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

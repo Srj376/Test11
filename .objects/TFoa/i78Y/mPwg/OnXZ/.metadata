@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Login(2)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "OnXZoqM9MUuw4XxYiaRvNw",
+  "Reference": "gP8H0QkvvUWJ5fJCeuAD8Q/OnXZoqM9MUuw4XxYiaRvNw",
+  "ParentRef": "gP8H0QkvvUWJ5fJCeuAD8Q/mPwgOOaPr0-CwrZQCVk8ow",
+  "Created": "2025-11-12T07:34:23.6704012Z",
+  "Updated": "2025-11-12T07:34:23.6704012Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
