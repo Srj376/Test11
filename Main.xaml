@@ -97,19 +97,19 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Chrome ACME System 1 - Log In" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="1092,1192" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" ScopeGuid="5f71e0c1-b992-48ca-b7f5-160c401d62a5" Version="V2">
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Chrome ACME System 1 - Log In" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="1092,1309.6" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" ScopeGuid="5f71e0c1-b992-48ca-b7f5-160c401d62a5" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="1090.4,1021.6" sap2010:WorkflowViewState.IdRef="Sequence_9">
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="1090.4,1139.2" sap2010:WorkflowViewState.IdRef="Sequence_9">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <Pick sap:VirtualizedContainerService.HintSize="1056.8,961.6" sap2010:WorkflowViewState.IdRef="Pick_2">
+            <Pick sap:VirtualizedContainerService.HintSize="1056.8,970.4" sap2010:WorkflowViewState.IdRef="Pick_2">
               <PickBranch sap:VirtualizedContainerService.HintSize="424,892" sap2010:WorkflowViewState.IdRef="PickBranch_4">
                 <PickBranch.Trigger>
                   <uix:NCheckState DisplayName="Check App State 'Login(2)'" EnableIfExists="False" EnableIfNotExists="False" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="334.4,245.6" sap2010:WorkflowViewState.IdRef="NCheckState_8" ScopeIdentifier="5f71e0c1-b992-48ca-b7f5-160c401d62a5" Version="V5">
@@ -197,6 +197,7 @@
                 <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="449.6,85.6" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;logged in&quot;]" />
               </PickBranch>
             </Pick>
+            <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="1056.8,108.8" sap2010:WorkflowViewState.IdRef="MessageBox_3" Text="[&quot;Hi&quot;]" />
           </Sequence>
         </ActivityAction>
       </uix:NApplicationCard.Body>
